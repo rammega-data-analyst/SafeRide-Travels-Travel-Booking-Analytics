@@ -7,7 +7,9 @@ This Power BI project focuses on analyzing travel booking data to understand boo
 - Analyze travel booking information.
 - Understand booking trends and patterns.
 - Present key insights through an interactive Power BI dashboard.
-
+## Project Files
+- Travel booking dataset.
+- Dashboard Screenshot 1.png – Power BI dashboard preview.
 ## Tools & Technologies
 - Microsoft Power BI
 - Data Cleaning
@@ -35,9 +37,5 @@ This Power BI project focuses on analyzing travel booking data to understand boo
 
 
 
-## Project Files
-- Travel booking dataset.
-- Dashboard Screenshot 1.png – Power BI dashboard preview.
 
-## Conclusion
 This project demonstrates the use of Power BI for travel booking data analysis, data visualization, and interactive dashboard reporting.
