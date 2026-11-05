@@ -19,10 +19,6 @@ This Power BI project focuses on analyzing travel booking data to understand boo
 - Prepared the dataset for analysis.
 - Final cleaned dataset contains 2,504 records.
 
-## Dashboard Preview
-![SafeRide Travels Dashboard](Dashboard%20Screenshot%201.png)
-
-
 ## Key Performance Indicators (KPIs)
 
 | KPI | Result |
@@ -33,6 +29,11 @@ This Power BI project focuses on analyzing travel booking data to understand boo
 | Average Booking Value | 7.91K |
 | Total Passengers | 6.18K |
 | Avg Customer Rating | 3.76 |
+
+## Dashboard Preview
+![SafeRide Travels Dashboard](Dashboard%20Screenshot%201.png)
+
+
 
 ## Project Files
 - Travel booking dataset.
