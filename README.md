@@ -22,6 +22,18 @@ This Power BI project focuses on analyzing travel booking data to understand boo
 ## Dashboard Preview
 ![SafeRide Travels Dashboard](Dashboard%20Screenshot%201.png)
 
+
+## Key Performance Indicators (KPIs)
+
+| KPI | Result |
+|---|---:|
+| Total Bookings | 2K |
+| Total Revenue | ₹19.64M |
+| Total Operating Cost | ₹13.75M |
+| Average Booking Value | 7.91K |
+| Total Passengers | 6.18K |
+| Avg Customer Rating | 3.76 |
+
 ## Project Files
 - Travel booking dataset.
 - Dashboard Screenshot 1.png – Power BI dashboard preview.
