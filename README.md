@@ -9,12 +9,10 @@ This Power BI project focuses on analyzing travel booking data to understand boo
 - Present key insights through an interactive Power BI dashboard.
 ## Project Files
 - Travel booking dataset.
-- Dashboard Screenshot 1.png – Power BI dashboard preview.
+
 ## Tools & Technologies
 - Microsoft Power BI
-- Data Cleaning
-- Data Visualization
-- KPI Reporting
+
 
 ## Data Cleaning
 - Reviewed and cleaned the travel booking dataset.
@@ -36,6 +34,6 @@ This Power BI project focuses on analyzing travel booking data to understand boo
 ![SafeRide Travels Dashboard](Dashboard%20Screenshot%201.png)
 
 
+## Conclusion
 
-
-This project demonstrates the use of Power BI for travel booking data analysis, data visualization, and interactive dashboard reporting.
+This project delivers a clear understanding of travel booking patterns, customer preferences, and business performance through interactive Power BI dashboards. The analysis helps identify booking trends, evaluate customer satisfaction, and generate meaningful insights for better business planning and decision-making.
